@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,uzuma.ru
   - DOMAIN-SUFFIX,isvoro.com
   - DOMAIN-SUFFIX,ippure.com 
+  - DOMAIN-SUFFIX,icanhazip.com
