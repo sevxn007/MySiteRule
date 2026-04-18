@@ -1,1 +1,11 @@
-
+payload:
+  - DOMAIN-SUFFIX,clashverge.dev
+  - DOMAIN-SUFFIX,111666.best
+  - DOMAIN-SUFFIX,22112211.xyz
+  - DOMAIN-SUFFIX,meowvps.com
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,legendvps.com
+  - DOMAIN-SUFFIX,api.themoviedb.org
+  - DOMAIN-SUFFIX,uzu.ma
+  - DOMAIN-SUFFIX,uzuma.ru
+  - DOMAIN-SUFFIX,isvoro.com
