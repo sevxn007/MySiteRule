@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,uzu.ma
   - DOMAIN-SUFFIX,uzuma.ru
   - DOMAIN-SUFFIX,isvoro.com
+  - DOMAIN-SUFFIX,ippure.com 
