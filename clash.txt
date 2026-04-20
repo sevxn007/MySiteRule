@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,isvoro.com
   - DOMAIN-SUFFIX,ippure.com 
   - DOMAIN-SUFFIX,icanhazip.com
+  - DOMAIN-SUFFIX,anyrouter.top
