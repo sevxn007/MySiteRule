@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,ippure.com 
   - DOMAIN-SUFFIX,icanhazip.com
   - DOMAIN-SUFFIX,anyrouter.top
+  - DOMAIN-SUFFIX,auto-subscribe.com
