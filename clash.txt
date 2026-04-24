@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,icanhazip.com
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,auto-subscribe.com
+  - DOMAIN-SUFFIX,feimiaoyun.vip
