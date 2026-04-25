@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,auto-subscribe.com
   - DOMAIN-SUFFIX,feimiaoyun.vip
+  - DOMAIN-SUFFIX,zzshu.com
