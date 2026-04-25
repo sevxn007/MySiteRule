@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,feimiaoyun.vip
   - DOMAIN-SUFFIX,zzshu.com
   - DOMAIN-SUFFIX,gptchong.com
+  - DOMAIN-SUFFIX,vipcloud.cc 
