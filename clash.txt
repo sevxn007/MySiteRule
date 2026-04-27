@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,gptchong.com
   - DOMAIN-SUFFIX,vipcloud.cc 
   - DOMAIN-SUFFIX,tizz.yt
+  - DOMAIN-SUFFIX,spring.io
