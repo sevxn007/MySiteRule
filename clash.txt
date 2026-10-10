@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,tizz.yt
   - DOMAIN-SUFFIX,spring.io
   - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,nodeimage.com
